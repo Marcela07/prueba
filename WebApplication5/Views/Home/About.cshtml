@@ -1,0 +1,38 @@
+﻿
+@model IEnumerable<WebApplication5.Models.Profesor>
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Ficha Profesor</p>
+
+<table class="table table-responsive table-bordered">
+
+    <thead>
+    <th>Rut</th>
+    <th>Nombre Completo</th>
+    <th>Titulo</th>
+    <th>Grado</th>
+   
+    <th colspan>Acciòn</th>
+    </thead>
+    <tbody>
+        
+        @foreach (Profesor profesor in Model)
+        {
+            <tr>
+               
+                <td>@Html.DisplayFor(item => profesor.rut)</td>
+                <td>@Html.DisplayFor(item => profesor.nombre)</td>
+                <td>@Html.DisplayFor(item => profesor.titulo)</td>
+                <td>@Html.DisplayFor(item => profesor.grado)</td>
+                <td> @Html.ActionLink("Ver", "Visualizar", "Home", new { cg= profesor.cg }, null) </td>
+                
+
+
+            </tr>
+        }
+
+
+
+    </tbody>
+</table>

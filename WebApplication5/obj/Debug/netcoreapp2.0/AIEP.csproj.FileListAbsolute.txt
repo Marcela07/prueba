@@ -1,0 +1,11 @@
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\AIEP.deps.json
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\AIEP.runtimeconfig.json
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\AIEP.runtimeconfig.dev.json
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\AIEP.dll
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\AIEP.pdb
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\AIEP.csprojResolveAssemblyReference.cache
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\AIEP.csproj.CoreCompileInputs.cache
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\AIEP.AssemblyInfoInputs.cache
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\AIEP.AssemblyInfo.cs
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\AIEP.dll
+c:\Users\Marcela Catrian\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\AIEP.pdb

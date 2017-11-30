@@ -1,0 +1,49 @@
+﻿
+@model WebApplication5.Models.Profesor
+
+<div class="row">
+    <h1>Listado Profesor</h1>
+    <div class="row">
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="rut">Rut:</label>
+            <div class="col-sm-6">
+                @Html.DisplayFor(m => m.rut)
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="nombre">Nombre:</label>
+            <div class="col-sm-6">
+              @Html.DisplayFor(m => m.nombre)
+
+
+            </div>
+        </div>
+    </div>
+   
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="apellido">Titulo:</label>
+            <div class="col-sm-6">
+                @Html.DisplayFor(m => m.titulo)
+
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="ciudad">Grado:</label>
+            <div class="col-sm-6">
+                @Html.DisplayFor(m => m.grado)
+
+
+            </div>
+        </div>
+        
+    </div>
+</div>
